@@ -1,8 +1,8 @@
 # Operations Analysis: Analytics & Probing a Metric Spike
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
@@ -79,7 +79,7 @@ Objective: Calculating the percentage share of each language in the last 30 days
 ### Duplicate Rows Detection
 Objective: Identifying duplicate rows in the data.
 
-## Analysis on Case Study 2: Investigating Metric Spike
+## Analysis on Case Study 2: Probing a Metric Spike
 In this case study, I worked with three tables: "users," "events," and "email_events." Tasks involves measuring weekly user engagement, analyzing user growth over time, investigating weekly user retention, measuring weekly engagement per device, and analyzing email engagement metrics.
 
 ### Weekly User Engagement
